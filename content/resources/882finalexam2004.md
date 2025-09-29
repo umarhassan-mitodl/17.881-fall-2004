@@ -4,6 +4,8 @@ description: This resource contains the questions on the 2004 final exam.
 file: /courses/17-881-game-theory-and-political-theory-fall-2004/bb07aba8a2482efd6e9d1ba477ff350d_882finalexam2004.pdf
 file_size: 83792
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
