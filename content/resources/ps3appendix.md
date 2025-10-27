@@ -4,8 +4,6 @@ description: This resource contains graphs of Gibbons 1.6.
 file: /courses/17-881-game-theory-and-political-theory-fall-2004/879515dbd94cd095e149d522700b2fe2_ps3appendix.pdf
 file_size: 16582
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

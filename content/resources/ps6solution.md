@@ -4,8 +4,6 @@ description: This resource contains solutions to problem set 6.
 file: /courses/17-881-game-theory-and-political-theory-fall-2004/3c511bd96eadb25361f62108b6510f9e_ps6solution.pdf
 file_size: 101512
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
